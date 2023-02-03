@@ -1,4 +1,4 @@
-# Key-word-network-analysis
+# Keyword-network-analysis
 performing keyword network analysis and word frequency analysis
 
 ## Task 1 :
